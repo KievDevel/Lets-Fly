@@ -1,0 +1,21 @@
+#stock {
+    overflow:hidden;
+}
+#stock a{
+    display:block;
+    float:left;
+    margin:0 2px 4px 2px;
+    overflow:hidden;
+}
+#stock a img{
+    display:block;
+}
+a.stock_current {
+
+}
+a.stock_current:hover {
+
+}
+a.stock_current img {
+
+}

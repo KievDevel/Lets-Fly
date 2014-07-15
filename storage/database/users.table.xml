@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><options><autoincrement>1</autoincrement></options><fields><login/><password/><email/><role/><date_registered/><firstname/><lastname/><login/><twitter/><skype/><hash/><about_me/></fields><users><id>1</id><uid>e218a22289</uid><firstname/><lastname/><twitter/><skype/><about_me/><login>admin</login><password>e8883934c769cbc24bda5c71ce9744f1</password><email>letsfly@gmail.com</email><hash>pK6ZplcrL4Ts</hash><date_registered>1405271721</date_registered><role>admin</role></users></root>
